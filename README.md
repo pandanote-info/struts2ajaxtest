@@ -1,0 +1,2 @@
+# struts2ajaxtest
+Struts2でAjaxを使用するWebアプリケーションのサンプル。
